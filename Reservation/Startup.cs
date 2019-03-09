@@ -14,7 +14,7 @@ namespace Reservation
         static void Main(string[] args)
         {
             Application.EnableVisualStyles();
-            Application.Run(new FormInsertIntoCountry());
+            Application.Run(new FormInsertIntoCountries());
 
             //ConsoleControler controler = new ConsoleControler();
 

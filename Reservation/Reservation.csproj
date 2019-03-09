@@ -57,11 +57,17 @@
     <Compile Include="Controlers\ConsoleControler.cs" />
     <Compile Include="Controlers\Find.cs" />
     <Compile Include="Controlers\InsertControler.cs" />
-    <Compile Include="Forms\FormInsertIntoCountry.cs">
+    <Compile Include="Forms\FormInsertIntoCountries.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Forms\FormInsertIntoCountry.Designer.cs">
-      <DependentUpon>FormInsertIntoCountry.cs</DependentUpon>
+    <Compile Include="Forms\FormInsertIntoCountries.Designer.cs">
+      <DependentUpon>FormInsertIntoCountries.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormInsertIntoTowns.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormInsertIntoTowns.Designer.cs">
+      <DependentUpon>FormInsertIntoTowns.cs</DependentUpon>
     </Compile>
     <Compile Include="Models\Client.cs" />
     <Compile Include="Models\Country.cs" />
@@ -84,8 +90,8 @@
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
-    <EmbeddedResource Include="Forms\FormInsertIntoCountry.resx">
-      <DependentUpon>FormInsertIntoCountry.cs</DependentUpon>
+    <EmbeddedResource Include="Forms\FormInsertIntoCountries.resx">
+      <DependentUpon>FormInsertIntoCountries.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
