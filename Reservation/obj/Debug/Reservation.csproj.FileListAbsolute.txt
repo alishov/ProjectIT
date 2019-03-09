@@ -1,0 +1,14 @@
+D:\GDriveAlishov\Projects\ProjectsIT\Reservation\bin\Debug\Reservation.exe.config
+D:\GDriveAlishov\Projects\ProjectsIT\Reservation\bin\Debug\Reservation.exe
+D:\GDriveAlishov\Projects\ProjectsIT\Reservation\bin\Debug\Reservation.pdb
+D:\GDriveAlishov\Projects\ProjectsIT\Reservation\bin\Debug\EntityFramework.dll
+D:\GDriveAlishov\Projects\ProjectsIT\Reservation\bin\Debug\EntityFramework.SqlServer.dll
+D:\GDriveAlishov\Projects\ProjectsIT\Reservation\bin\Debug\EntityFramework.xml
+D:\GDriveAlishov\Projects\ProjectsIT\Reservation\bin\Debug\EntityFramework.SqlServer.xml
+D:\GDriveAlishov\Projects\ProjectsIT\Reservation\obj\Debug\Reservation.csprojAssemblyReference.cache
+D:\GDriveAlishov\Projects\ProjectsIT\Reservation\obj\Debug\Reservation.csproj.CoreCompileInputs.cache
+D:\GDriveAlishov\Projects\ProjectsIT\Reservation\obj\Debug\Reservation.csproj.CopyComplete
+D:\GDriveAlishov\Projects\ProjectsIT\Reservation\obj\Debug\Reservation.exe
+D:\GDriveAlishov\Projects\ProjectsIT\Reservation\obj\Debug\Reservation.pdb
+D:\GDriveAlishov\Projects\ProjectsIT\Reservation\obj\Debug\Reservation.Forms.FormInsertIntoCountry.resources
+D:\GDriveAlishov\Projects\ProjectsIT\Reservation\obj\Debug\Reservation.csproj.GenerateResource.cache
